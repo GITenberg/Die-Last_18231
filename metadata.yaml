@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7889
     wikipedia: http://de.wikipedia.org/wiki/Georg_Engel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18231#Die-Last
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2006-04-22'
 gutenberg_type: Text
